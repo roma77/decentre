@@ -150,6 +150,7 @@ table {
     src: url(/wp-content/themes/decenter/fonts/PTSerif-Regular.eot?25f4271aab0d791bf21f18ccf6a5e1fb);
     src: url(/wp-content/themes/decenter/fonts/PTSerif-Regular.eot?25f4271aab0d791bf21f18ccf6a5e1fb) format("embedded-opentype"), url(/wp-content/themes/decenter/fonts/PTSerif-Regular.woff?5b1714e942ebd02f2f13090b902d4079) format("woff"), url(/wp-content/themes/decenter/fonts/PTSerif-Regular.ttf?0d20eede319b448db38ec7744ad5600d) format("truetype");
     font-weight: 400;
+	font-display: swap;
     font-style: normal
 }
 
@@ -157,6 +158,7 @@ table {
     font-family: MetaPro-Normal;
     src: url(/wp-content/themes/decenter/fonts/MetaPro-Normal.woff2?b5e05cff1347d3ee2fe9afb57670c849) format("woff2"), url(/wp-content/themes/decenter/fonts/MetaPro-Normal.woff?7834b6c5df327dec5fd6863d867a05c9) format("woff");
     font-weight: 400;
+	font-display: swap;
     font-style: normal
 }
 
@@ -165,6 +167,7 @@ table {
     src: url(/wp-content/themes/decenter/fonts/MetaPro-Black.eot?74b3f0e0aa00eb1fdcc09a2f89971118);
     src: url(/wp-content/themes/decenter/fonts/MetaPro-Black.eot?74b3f0e0aa00eb1fdcc09a2f89971118) format("embedded-opentype"), url(/wp-content/themes/decenter/fonts/MetaPro-Black.woff?845226e563d3092ec2a9ba1ab89c410c) format("woff"), url(/wp-content/themes/decenter/fonts/MetaPro-Black.ttf?1aab9986916870d64c2dd48acf0047e9) format("truetype");
     font-weight: 900;
+	font-display: swap;
     font-style: normal
 }
 
@@ -173,13 +176,15 @@ table {
     src: url(/wp-content/themes/decenter/fonts/MetaPro-Medium.eot?e34b5d428a0fae967d738ca3db107f1b);
     src: url(/wp-content/themes/decenter/fonts/MetaPro-Medium.eot?e34b5d428a0fae967d738ca3db107f1b) format("embedded-opentype"), url(/wp-content/themes/decenter/fonts/MetaPro-Medium.woff?c053529fc3d616303f041152c119e5d7) format("woff"), url(/wp-content/themes/decenter/fonts/MetaPro-Medium.ttf?dd921c9a21342d97fe5cf98402915c63) format("truetype");
     font-weight: 500;
-    font-style: normal
+	font-display: swap;
+    font-style: normal;
 }
 
 @font-face {
     font-family: SF UI Text;
     src: url(/wp-content/themes/decenter/fonts/SFUIText-Regular.woff2?0dfd7fb7a60ca2d52a00ca3da44d0add) format("woff2"), url(/wp-content/themes/decenter/fonts/SFUIText-Regular.woff?d790308941f6071558e97c5083c4c939) format("woff");
     font-weight: 400;
+	font-display: swap;
     font-style: normal
 }
 
